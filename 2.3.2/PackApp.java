@@ -35,6 +35,6 @@ class PackFrame extends JFrame {
         super.paint(g);
         this.r1.paint(g);
         this.e1.paint(g);
-	    this.t1.paint(g);
+	this.t1.paint(g);
     }
 }
